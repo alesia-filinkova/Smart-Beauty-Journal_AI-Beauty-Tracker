@@ -1,0 +1,30 @@
+# Core
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+psycopg2-binary
+
+# ML & CV
+torch
+torchvision
+ultralytics           # YOLOv8
+scikit-learn
+numpy
+pandas
+
+# NLP & LLM
+transformers
+sentence-transformers
+faiss-cpu             # or weaviate-client / pinecone-client
+
+# Visualization
+plotly
+matplotlib
+
+# Web prototype
+streamlit
+
+# Utils
+python-multipart      # for file uploads in FastAPI
+requests
