@@ -4,6 +4,7 @@ uvicorn[standard]
 pydantic
 sqlalchemy
 psycopg2-binary
+passlib
 
 # ML & CV
 torch
